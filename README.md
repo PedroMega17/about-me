@@ -10,12 +10,6 @@ Este projeto é o meu primeiro portfólio pessoal, criado utilizando os conhecim
 
 Neste projeto, criei uma página inicial que apresenta informações básicas sobre mim, como meu nome, habilidades, experiências e links para entrar em contato comigo. Também adicionei estilos de design para tornar o portfólio visualmente atraente.
 
-## Instalação
-
-1. Faça um clone deste repositório: `git clone https://github.com/seu-usuario/about-me.git`
-2. Navegue até o diretório do projeto: `cd about-me`
-3. Abra o arquivo `index.html` no seu navegador web.
-
 ## Contribuição
 
 Este projeto foi desenvolvido como parte de um curso e não está aberto a contribuições no momento.
